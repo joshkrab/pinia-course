@@ -1,0 +1,29 @@
+1. Install project ---------------------------------------------------------------------------------------------------
+    - https://youtu.be/Xy89aM6JSTk?si=97YR_R8s8lqQoshu
+    - npm create vite@latest
+    - Select Vue and JavaScript
+    - npm i
+    - npm run dev
+
+2. Clean Code --------------------------------------------------------------------------------------------------------
+    - App.vue - remove everything between tags
+    - Delete helloWord component and logo svg
+    - main.js - delete import style.css and this file
+
+3. Create main.css 2:50 ----------------------------------------------------------------------------------------------
+    - Create file in assets folder
+    - Copy the styles there (https://github.com/AlexanderBelkevich/pinia/blob/lesson2/src/assets/main.css)
+    - imporn in main.css
+
+4. npm install pinia 3:35 -------------------------------------------------------------------------------------------
+    - import { createPinia } from 'pinia' in main.js
+    - add use(createPinia())
+    - create "stores" folder and create there the MovieStore.js
+    - imporn defineStore there, export const...
+
+5. Connect store 7:50 -----------------------------------------------------------------------------------------------
+    - copy logo.svg to public folder
+    - App.vue - paste styles
+    - Create header tag...
+
+    9:15
