@@ -1,17 +1,11 @@
 <template>
   <header class="header">
-    <img src="/logo.svg" alt="logo" class="header-logo">
+    <img src="/logo.svg" alt="logo" class="header-logo" />
     <h2>My favourite movies</h2>
   </header>
-
 </template>
 
-
-<script setup>
-
-</script>
-
-
+<script setup></script>
 
 <style lang="css">
 .header {
