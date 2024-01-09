@@ -26,4 +26,17 @@
     - App.vue - paste styles
     - Create header tag...
 
-    9:15
+6. Craate a Movie.vue component 10:50 ---------------------------------------------------------------------------------
+    - Create file and copy styles https://github.com/AlexanderBelkevich/pinia/blob/lesson2/src/components/Movie.vue
+    - Create const props in <script setup>
+    - Write <template>
+
+    - Import Movie component in App.vue
+    - Send props there
+
+7. Add tabs buttons 19:05 -----------------------------------------------------------------------------------------------
+    - In App.vue add .tabs with buttons and .search
+    - Add new variable in store activeTab for tabs conditions
+
+8. Getters https://www.youtube.com/watch?v=sMVrAJKKNLY ------------------------------------------------------------------
+
