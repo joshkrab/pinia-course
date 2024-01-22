@@ -13,7 +13,7 @@
 3. Create main.css 2:50 ----------------------------------------------------------------------------------------------
     - Create file in assets folder
     - Copy the styles there (https://github.com/AlexanderBelkevich/pinia/blob/lesson2/src/assets/main.css)
-    - import in main.css
+    - import in main.js
 
 4. npm install pinia 3:35 -------------------------------------------------------------------------------------------
     - import { createPinia } from 'pinia' in main.js
